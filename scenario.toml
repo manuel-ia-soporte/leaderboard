@@ -1,0 +1,15 @@
+[green_agent]
+agentbeats_id = "019c066d-d16f-7bf0-9e30-4a3eac7100fc"
+env = { LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = ""
+name = "participant"
+env = {}
+
+[config]
+seed = 42
+maxQuestions = 50
+timeoutSeconds = 120
+participantRole = "participant"
+allowNetwork = false
