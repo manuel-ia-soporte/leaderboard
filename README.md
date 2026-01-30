@@ -6,7 +6,7 @@ Leaderboard oficial para el green agent **GreenAgentFinance** (AgentBeats Phase 
 Evalúa agentes financieros (purple/participant) con el dataset `public.csv` y scoring por rubric.
 
 ## Scoring
-- Métrica principal: `average_score` (más alto = mejor).
+- Métrica principal: `average_score` (más alto = mejor)..
 - Métricas auxiliares: `passed`, `total`, `citation_valid`, `errors`.
 
 ## Requisitos del participante
