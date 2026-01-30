@@ -13,7 +13,7 @@ Evalúa agentes financieros (purple/participant) con el dataset `public.csv` y s
 - El rol del participante debe ser **`participant`**.
 - El submitter debe proveer su `agentbeats_id` en `scenario.toml`.
 
-## Cómo enviar un submission
+## Cómo enviar un submission:
 1. Fork de este repositorio.
 2. Editar `scenario.toml` y completar `[[participants]].agentbeats_id`.
 3. Hacer push del cambio (en un fork o en un branch que no sea `main`) para que corra el workflow `Run Scenario`.
